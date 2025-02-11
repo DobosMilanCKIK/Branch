@@ -1,4 +1,9 @@
 egy sor
+<<<<<<< HEAD
 második sor
 harmadik sor
 negyedik sor
+=======
+masodik sor
+harmodik sor (Eliot)
+>>>>>>> bugfix
